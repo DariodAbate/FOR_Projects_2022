@@ -1,2 +1,2 @@
 # FOR_BigProject_2022
-088983 - FOUNDATIONS OF OPERATIONS RESEARCH COMPUTER LABS
+This folder contain the material regarding the small project and the big one
